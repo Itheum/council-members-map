@@ -1,5 +1,5 @@
 [
-  { "name": "Sydney", "coordinates": [151.209900,-33.865143], "population": 50000000 },
+  { "name": "Sydney", "coordinates": [151.209900,-33.865143], "population": 40000000 },
   { "name": "Canada", "coordinates": [-105.750596,55.585901], "population": 10000000 },
   { "name": "India", "coordinates": [78.9629,20.5937], "population": 10000000 }
 ]

@@ -14,8 +14,7 @@ import request from "axios"
 const wrapperStyles = {
   width: "100%",
   maxWidth: 980,
-  margin: "0 auto",
-  backgroundColor: '#CCC'
+  margin: "0 auto"
 }
 
 const cityScale = scaleLinear()
